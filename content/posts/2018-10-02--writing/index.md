@@ -1,6 +1,7 @@
 ---
 title: How to Improve your English Writing Skills
 subTitle: Writing Skills
+category: bb
 cover: writing-cover.jpg
 ---
 

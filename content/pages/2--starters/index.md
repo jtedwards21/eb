@@ -3,18 +3,23 @@ title: Other GatsbyJs starters
 menuTitle: My starters
 ---
 
-[Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.
+In addition to the resources available here on this page I also keep have a number of other textbooks and resources available.
 
-![SimpleLanding](./gatsby-starter-simple-landing.png)
+![Books](./books.jpg)
 
-### SimpleLanding
+## Books
 
-As the name says, it is a landing page starter.
-[Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing)
+### Business Builder
 
-![StyledBlog](./gatsby-styled-blog-starter.jpg)
+* [Business Builder 1-3](https://pan.baidu.com/s/16jK2AQY_0_NkHUbYPCA-pg) 提取码: xmnz
+* [Business Builder 4-6](https://pan.baidu.com/s/1V2NfRgMXdUmC64l9efoZow) 提取码: 2xj4
+* [Business Builder 7-9](https://pan.baidu.com/s/1WhbFf6xPjiUTVIWnzTtlAQ) 提取码: ku9j
 
-### StyledBlog
+### Ship or Sheep
 
-That was my first Gatsby starter. It is a forefather of the starter you are looking at now.
-[Github repo](https://github.com/greglobinski/gatsby-styled-blog-starter)
+* [Textbook](https://pan.baidu.com/s/1OT98tJJ7DjwTRtvSymU-TQ) 提取码: 1tyn
+* [Audio](https://pan.baidu.com/s/1nkthfyul-4E_8l2T0xzChQ) 提取码: quhg
+
+### Collins IELTS
+
+* [Listening for IELTS Textbook](https://pan.baidu.com/s/10w0faxFiDL5hr9YhT9Ziqw) 提取码: 3vrr

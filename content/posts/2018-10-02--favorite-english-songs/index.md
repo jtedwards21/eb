@@ -2,7 +2,7 @@
 title: Some of Our Favorite English Songs
 subTitle: Writing Skills
 category: bb
-cover: writing-cover.jpg
+cover: chainsmokers.jpg
 ---
 
 Some of the favorite tracks in my playlist currently are:

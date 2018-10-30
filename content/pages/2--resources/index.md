@@ -29,6 +29,38 @@ I keep some English langauge textbooks, books, magazines and audio online. I've 
 * [ICT](https://pan.baidu.com/s/1boL3c9LakfYr48lVc_q95Q)  密码:nkzh
 * [Law](https://pan.baidu.com/s/1pqSmHz7OouTI2b8bkvvITw)  密码:gzyk
 
+### Cutting Edge Starter
+
+* [Student Book]
+* [Workbook](https://pan.baidu.com/s/1A51IYF-5Zisg-obHpL2Hhw)  密码:fbfi
+* [Activity Book](https://pan.baidu.com/s/1l7Uy53m1ov_u1AAwwU0w9w)  密码:7jwz
+
+
+### Cutting Edge Elementary
+
+* [Student Book](https://pan.baidu.com/s/1dL_IkdYq21OYClkm2uJ5_A)  密码:msbi
+* [Workbook](https://pan.baidu.com/s/1DDs6EqHzphvjFvpS3Ww6NQ)  密码:zufx
+* [Activity Book](https://pan.baidu.com/s/1jIGkQUhtWLDrqxF6Atl9kQ)  密码:g21q
+
+### Cutting Edge Pre-Intermediate
+
+* [Student Book](https://pan.baidu.com/s/1KBeywhWFMIIuMCw4M0_Vyg)  密码:0r0l
+* [Workbook](https://pan.baidu.com/s/1agrAGRrGWk9D7kolXtt_fA)  密码:4mg4
+* [Activity Book](https://pan.baidu.com/s/1RumjQrDoOu4B4YrHhaFA0Q)  密码:gayo
+
+### Cutting Edge Intermediate
+
+* [Student Book](https://pan.baidu.com/s/1nK3u_DRJqNvx81yoO8FPhw)  密码:h65g
+* [Workbook](https://pan.baidu.com/s/1ldwrUFuxZqsGSakFEr-nxw)  密码:ougb
+* [Activity Book](https://pan.baidu.com/s/1wZew3Xcq44QzTqZBGjbHcg)  密码:jfl9
+
+### Cutting Edge Upper-Intermediate
+
+* [Student Book](https://pan.baidu.com/s/1atHr46oGBHyqfr2A8lcEoQ)  密码:gc4p
+* [Workbook](https://pan.baidu.com/s/1su16Xlyg7n9pjp6-sUCoSA)  密码:4bju
+* [Activity Book](https://pan.baidu.com/s/19EcrnnHdI16oh9Db7Mh2NA)  密码:4cy3
+
+
 # Books
 
 ### Business Builder
@@ -47,7 +79,7 @@ I keep some English langauge textbooks, books, magazines and audio online. I've 
 
 # Magazines
 
-Some of these are not so current but I'll likely be leaving most of them up anyway.
+Some of these are not so current but I'll likely be leaving them up anyway.
 
 * [BBC Good Food - December 2017](https://pan.baidu.com/s/1zNhrXhNfS0igvBkl-n9O_Q)  密码:ptsg
 * [BBC History - Christmas 2017](https://pan.baidu.com/s/1eIgTeARtWMGXAdvQrw1ZQA)  密码:bz2g

@@ -28,4 +28,8 @@ In addition to the resources available here on this page I also keep have a numb
 
 * [BBC Good Food - December 2017](https://pan.baidu.com/s/1zNhrXhNfS0igvBkl-n9O_Q)  密码:ptsg
 * [BBC History - Christmas 2017](https://pan.baidu.com/s/1eIgTeARtWMGXAdvQrw1ZQA)  密码:bz2g
+* [BBC Sky at Night - January 2018](https://pan.baidu.com/s/1Bi9lakoAEiSU8yHkXYcFwQ)  密码:1dxr
+* [Popular Science - February 2018](https://pan.baidu.com/s/1_CYqyZUfqfKXKta00bMx3A)  密码:tt29
+* [The Economist - December 9th 2017](https://pan.baidu.com/s/1feJtUF0YW8x6oMpQ6M0kUg)  密码:zn6r]
+
 

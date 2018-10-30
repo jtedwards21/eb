@@ -25,6 +25,9 @@ I keep some English langauge textbooks, books, magazines and audio online. I've 
 
 ### Professional English in Use (Cambridge)
 
+* [Finance](https://pan.baidu.com/s/16Zp5AWFtImicn6NOELlMIA)  密码:o1wd
+* [ICT](https://pan.baidu.com/s/1boL3c9LakfYr48lVc_q95Q)  密码:nkzh
+* [Law](https://pan.baidu.com/s/1pqSmHz7OouTI2b8bkvvITw)  密码:gzyk
 
 # Books
 

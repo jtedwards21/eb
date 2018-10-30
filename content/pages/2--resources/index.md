@@ -1,6 +1,6 @@
 ---
-title: Other GatsbyJs starters
-menuTitle: My starters
+title: Resources
+menuTitle: Resources
 ---
 
 In addition to the resources available here on this page I also keep have a number of other textbooks and resources available.
@@ -23,3 +23,9 @@ In addition to the resources available here on this page I also keep have a numb
 ### Collins IELTS
 
 * [Listening for IELTS Textbook](https://pan.baidu.com/s/10w0faxFiDL5hr9YhT9Ziqw) 提取码: 3vrr
+
+## Magazines
+
+* [BBC Good Food - December 2017](https://pan.baidu.com/s/1zNhrXhNfS0igvBkl-n9O_Q)  密码:ptsg
+* [BBC History - Christmas 2017](https://pan.baidu.com/s/1eIgTeARtWMGXAdvQrw1ZQA)  密码:bz2g
+
